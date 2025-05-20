@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/latent_diffusion_for_reasoning
 date: '2024-08-01'
+paperurl: 'http://yhl04.github.io/files/Latent_Diffusion_with_LLMs_for_Reasoning.pdf'
 venue: 'preprint'
 ---
 This work augments encoder-decoder language models with latent diffusion models in an attempt to
